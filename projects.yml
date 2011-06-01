@@ -1,0 +1,42 @@
+-
+  language: "Ruby"
+  name: "Battlenet"
+  author: "Cyaga"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369922944#1"
+  project: "https://github.com/BinaryMuse/battlenet"
+-
+  language: "PHP"
+  name: "WoWAPI-PHP-SDK"
+  author: "Healclash"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369742350#1"
+  project: "https://github.com/cjsaylor/WoWAPI-PHP-SDK"
+-
+  language: "C#"
+  name: "WowDotNetAPI"
+  author: "Briandek"
+  thread: "http://us.battle.net/wow/en/forum/topic/2416154251#1"
+  project: "https://github.com/briandek/WowDotNetAPI"
+-
+  language: "ColdFusion"
+  name: "WowColdFusionAPI"
+  author: "Mature"
+  thread: "http://us.battle.net/wow/en/forum/topic/2592641736#1"
+  project: "https://github.com/Hanzo55/WoWColdFusionAPI"
+-
+  language: "Python"
+  name: "PyWoW"
+  author: "Cheevos"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588#5"
+  project: "https://github.com/dhask/PyWoW"
+-
+  language: "JavaScript"
+  name: "JSWoW"
+  author: "Cheevos"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588#5"
+  project: "https://github.com/dhask/JSWoW"
+-
+  language: "Python"
+  name: "battlenet"
+  author: "Vishnevskiy"
+  thread: "http://us.battle.net/wow/en/forum/topic/2593003909#1"
+  project: "https://github.com/vishnevskiy/battlenet"
