@@ -9,4 +9,4 @@ If you wish your project to be listed on the thread, please follow these steps:
     * Author (optional): the name of the author of the project (probably you)
     * Thread (optional): the thread in the Community Platform API forum where you introducted your project
     * Project: the URL to your project
- 3. Submit a pull request to me (BinaryMuse). I will add your project to the list as soon as I can!
+ 3. Submit a pull request. I will add your project to the list as soon as I can!
