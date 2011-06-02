@@ -12,7 +12,7 @@ end
 
 data.sort.each do |language, projects|
   puts "[b]#{language}[/b]"
-  projects.each do |project|
+  projects.sort{ |a, b| a['name'].downcase <=> b['name'].downcase }.each do |project|
     print "[ul]"
     print "[li][b]#{project['name']}[/b]"
     print " by #{project['author']}" if project['author']
