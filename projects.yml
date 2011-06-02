@@ -40,3 +40,8 @@
   author: "Vishnevskiy"
   thread: "http://us.battle.net/wow/en/forum/topic/2593003909#1"
   project: "https://github.com/vishnevskiy/battlenet"
+-
+  language: "C#"
+  name: "WCPAL (Warcraft Community Platform API Library)"
+  author: "Daegren"
+  project: "https://github.com/daegren/WCPAL"
