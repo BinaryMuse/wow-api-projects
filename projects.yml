@@ -45,3 +45,9 @@
   name: "WCPAL (Warcraft Community Platform API Library)"
   author: "Daegren"
   project: "https://github.com/daegren/WCPAL"
+-
+  language: "ActionScript 3"
+  name: "WowActions"
+  author: "Spamcaster"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588#7"
+  project: "https://github.com/Spamcaster/WowActions"
