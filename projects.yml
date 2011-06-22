@@ -51,3 +51,9 @@
   author: "Spamcaster"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#7"
   project: "https://github.com/Spamcaster/WowActions"
+-
+  language: "Java"
+  name: "wowapi"
+  auther: "Marooned"
+  thread: "http://us.battle.net/wow/en/forum/topic/2593006080"
+  project: "https://github.com/Marooned202/wowapi"
