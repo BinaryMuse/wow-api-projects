@@ -11,6 +11,11 @@
   thread: "http://us.battle.net/wow/en/forum/topic/2369742350#1"
   project: "https://github.com/cjsaylor/WoWAPI-PHP-SDK"
 -
+  language: "PHP"
+  name: "Php-WowApi"
+  author: "Dancannon"
+  project: "https://github.com/dancannon/Php-WowApi"
+-
   language: "C#"
   name: "WowDotNetAPI"
   author: "Briandek"
