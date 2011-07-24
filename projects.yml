@@ -62,3 +62,9 @@
   auther: "Marooned"
   thread: "http://us.battle.net/wow/en/forum/topic/2593006080"
   project: "https://github.com/Marooned202/wowapi"
+-
+  language: "PHP"
+  name: "Battle.net Api"
+  auther: "Khepri"
+  project: "https://github.com/jelte/blizzard-api"
+  
