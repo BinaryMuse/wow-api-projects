@@ -67,4 +67,10 @@
   name: "Battle.net Api"
   author: "Khepri"
   project: "https://github.com/jelte/blizzard-api"
-  
+-
+  language: "C#"
+  name: "n-battle-net-api"
+  author: "Femor"
+  thread: "http://us.battle.net/wow/en/forum/topic/2842566043#1"
+  project: "http://code.google.com/p/n-battle-net-api/"
+
