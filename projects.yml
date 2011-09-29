@@ -79,3 +79,21 @@
   author: "Kaelum"
   thread: "http://us.battle.net/wow/en/forum/topic/2973248274"
   project: "http://oscworldofwarcraft.codeplex.com/"
+-
+  language: "Java"
+  name: "wowjavaapi"
+  author: "Borvoh"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588#18"
+  project: "https://github.com/chalverson/wowjavaapi"
+-
+  language: "PHP"
+  name: "PHP WoW Battle.net Armory API"
+  author: "Growar"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588#17"
+  project: "http://sourceforge.net/projects/wowarmoryapi/"
+-
+  language: "C#"
+  name: "WOWSharp"
+  author: "Grendizer"
+  thread: "http://us.battle.net/wow/en/forum/topic/2973023467#1"
+  project: "http://wowsharp.codeplex.com/"
