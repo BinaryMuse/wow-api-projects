@@ -73,4 +73,9 @@
   author: "Femor"
   thread: "http://us.battle.net/wow/en/forum/topic/2842566043#1"
   project: "http://code.google.com/p/n-battle-net-api/"
-
+-
+  language: "C#"
+  name: "openSourceC.WorldOfWarcraft"
+  author: "Kaelum"
+  thread: "http://us.battle.net/wow/en/forum/topic/2973248274"
+  project: "http://oscworldofwarcraft.codeplex.com/"
