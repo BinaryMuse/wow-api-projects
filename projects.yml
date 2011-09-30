@@ -97,3 +97,9 @@
   author: "Grendizer"
   thread: "http://us.battle.net/wow/en/forum/topic/2973023467#1"
   project: "http://wowsharp.codeplex.com/"
+-
+  language: "Python"
+  name: "wowapi"
+  author: "Dorwido"
+  thread: "http://us.battle.net/wow/en/forum/topic/3123245683"
+  project: "https://github.com/Dorwido/wowapi"
