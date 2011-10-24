@@ -103,3 +103,9 @@
   author: "Dorwido"
   thread: "http://us.battle.net/wow/en/forum/topic/3123245683"
   project: "https://github.com/Dorwido/wowapi"
+-
+  language: "JavaScript"
+  name: "node-armory"
+  author: "Dargonaut"
+  thread: "http://us.battle.net/wow/en/forum/topic/2369882588?page=2#25"
+  project: "http://github.com/xtian/node-armory"
