@@ -115,3 +115,9 @@
   author: "Rhileu"
   thread: "http://us.battle.net/wow/en/forum/topic/3053757775#1"
   project: "https://github.com/darkspotinthecorner/DarkTip"
+-
+  language: "C#"
+  name: "BattleDotNet"
+  author: "ChadMoran"
+  project: "http://git.io/bnet"
+  thread: "http://us.battle.net/wow/en/forum/topic/3710772928"
