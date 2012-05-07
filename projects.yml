@@ -121,3 +121,8 @@
   author: "ChadMoran"
   project: "http://git.io/bnet"
   thread: "http://us.battle.net/wow/en/forum/topic/3710772928"
+-
+  language: "PHP"
+  name: "bnetlib"
+  author: "coss"
+  project: "https://github.com/coss/bnetlib"
