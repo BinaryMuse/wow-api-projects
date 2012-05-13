@@ -3,7 +3,7 @@ This project generates the opening post at http://us.battle.net/wow/en/forum/top
 If you wish your project to be listed on the thread, please follow these steps:
 
  1. Fork this repository.
- 2. Add your project to `projects.yml`, following the same template as the other entries:
+ 2. Add your project to `wow.yml` or `diablo.yml`, following the same template as the other entries:
     * Language: the programming language or framework your project is for
     * Name: the name of the project
     * Author (optional): the name of the author of the project (probably you)
