@@ -126,3 +126,8 @@
   name: "bnetlib"
   author: "coss"
   project: "https://github.com/coss/bnetlib"
+-
+  language: "Python"
+  name: "WoWthon (Python 3)"
+  author: "JonGoodger"
+  project: "https://github.com/JonGoodger/WoWThon"
