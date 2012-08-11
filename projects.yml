@@ -4,130 +4,176 @@
   author: "Cyaga"
   thread: "http://us.battle.net/wow/en/forum/topic/2369922944#1"
   project: "https://github.com/BinaryMuse/battlenet"
+  apis:
+    - "wow"
 -
   language: "PHP"
   name: "WoWAPI-PHP-SDK"
   author: "Healclash"
   thread: "http://us.battle.net/wow/en/forum/topic/2369742350#1"
   project: "https://github.com/cjsaylor/WoWAPI-PHP-SDK"
+  apis:
+    - "wow"
 -
   language: "PHP"
   name: "Php-WowApi"
   author: "Dancannon"
   project: "https://github.com/dancannon/Php-WowApi"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "WowDotNetAPI"
   author: "Briandek"
   thread: "http://us.battle.net/wow/en/forum/topic/2416154251#1"
   project: "https://github.com/briandek/WowDotNetAPI"
+  apis:
+    - "wow"
 -
   language: "ColdFusion"
   name: "WowColdFusionAPI"
   author: "Mature"
   thread: "http://us.battle.net/wow/en/forum/topic/2592641736#1"
   project: "https://github.com/Hanzo55/WoWColdFusionAPI"
+  apis:
+    - "wow"
 -
   language: "Python"
   name: "PyWoW"
   author: "Cheevos"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#5"
   project: "https://github.com/dhask/PyWoW"
+  apis:
+    - "wow"
 -
   language: "JavaScript"
   name: "JSWoW"
   author: "Cheevos"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#5"
   project: "https://github.com/dhask/JSWoW"
+  apis:
+    - "wow"
 -
   language: "Python"
   name: "battlenet"
   author: "Vishnevskiy"
   thread: "http://us.battle.net/wow/en/forum/topic/2593003909#1"
   project: "https://github.com/vishnevskiy/battlenet"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "WCPAL (Warcraft Community Platform API Library)"
   author: "Daegren"
   project: "https://github.com/daegren/WCPAL"
+  apis:
+    - "wow"
 -
   language: "ActionScript 3"
   name: "WowActions"
   author: "Spamcaster"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#7"
   project: "https://github.com/Spamcaster/WowActions"
+  apis:
+    - "wow"
 -
   language: "Java"
   name: "wowapi"
   author: "Marooned"
   thread: "http://us.battle.net/wow/en/forum/topic/2593006080"
   project: "https://github.com/Marooned202/wowapi"
+  apis:
+    - "wow"
 -
   language: "PHP"
   name: "Battle.net Api"
   author: "Khepri"
   project: "https://github.com/jelte/blizzard-api"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "n-battle-net-api"
   author: "Femor"
   thread: "http://us.battle.net/wow/en/forum/topic/2842566043#1"
   project: "http://code.google.com/p/n-battle-net-api/"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "openSourceC.WorldOfWarcraft"
   author: "Kaelum"
   thread: "http://us.battle.net/wow/en/forum/topic/2973248274"
   project: "http://oscworldofwarcraft.codeplex.com/"
+  apis:
+    - "wow"
 -
   language: "Java"
   name: "wowjavaapi"
   author: "Borvoh"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#18"
   project: "https://github.com/chalverson/wowjavaapi"
+  apis:
+    - "wow"
 -
   language: "PHP"
   name: "PHP WoW Battle.net Armory API"
   author: "Growar"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588#17"
   project: "http://sourceforge.net/projects/wowarmoryapi/"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "WOWSharp"
   author: "Grendizer"
   thread: "http://us.battle.net/wow/en/forum/topic/2973023467#1"
   project: "http://wowsharp.codeplex.com/"
+  apis:
+    - "wow"
 -
   language: "Python"
   name: "wowapi"
   author: "Dorwido"
   thread: "http://us.battle.net/wow/en/forum/topic/3123245683"
   project: "https://github.com/Dorwido/wowapi"
+  apis:
+    - "wow"
 -
   language: "JavaScript"
   name: "node-armory"
   author: "Dargonaut"
   thread: "http://us.battle.net/wow/en/forum/topic/2369882588?page=2#25"
   project: "http://github.com/xtian/node-armory"
+  apis:
+    - "wow"
 -
   language: "JavaScript"
   name: "DarkTip"
   author: "Rhileu"
   thread: "http://us.battle.net/wow/en/forum/topic/3053757775#1"
   project: "https://github.com/darkspotinthecorner/DarkTip"
+  apis:
+    - "wow"
 -
   language: "C#"
   name: "BattleDotNet"
   author: "ChadMoran"
   project: "http://git.io/bnet"
   thread: "http://us.battle.net/wow/en/forum/topic/3710772928"
+  apis:
+    - "wow"
 -
   language: "PHP"
   name: "bnetlib"
   author: "coss"
   project: "https://github.com/coss/bnetlib"
+  apis:
+    - "wow"
 -
   language: "Python"
   name: "WoWthon (Python 3)"
   author: "JonGoodger"
   project: "https://github.com/JonGoodger/WoWThon"
+  apis:
+    - "wow"

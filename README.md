@@ -9,4 +9,5 @@ If you wish your project to be listed on the thread, please follow these steps:
     * Author (optional): the name of the author of the project (probably you)
     * Thread (optional): the thread in the Community Platform API forum where you introducted your project
     * Project: the URL to your project
+    * APIs: a list of APIs your project supports; valid options are "wow" for the World of Warcraft API and "d3" for the Diablo 3 API
  3. Submit a pull request. I will add your project to the list as soon as I can!
