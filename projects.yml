@@ -177,3 +177,11 @@
   project: "https://github.com/JonGoodger/WoWThon"
   apis:
     - "wow"
+-
+  language: ".Net"
+  name: "D3API.Net"
+  author: "Promedeus"
+  project: "http://d3api.codeplex.com/"
+  thread: "http://us.battle.net/d3/en/forum/topic/6293459495#1"
+  apis:
+    - "d3"
