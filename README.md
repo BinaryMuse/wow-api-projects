@@ -1,4 +1,4 @@
-This project generates the opening post at http://us.battle.net/wow/en/forum/topic/2369882588. As the number of projects tracked becomes larger, it is increasingly difficult to edit the post and keep it formatted correctly.
+This project generates the opening posts at http://us.battle.net/wow/en/forum/topic/2369882588 and http://us.battle.net/d3/en/forum/topic/6307731317. As the number of projects tracked becomes larger, it is increasingly difficult to edit the post and keep it formatted correctly.
 
 If you wish your project to be listed on the thread, please follow these steps:
 
