@@ -185,3 +185,10 @@
   thread: "http://us.battle.net/d3/en/forum/topic/6293459495#1"
   apis:
     - "d3"
+-
+  language: "Python"
+  name: "simple-python-Diablo-3-API"
+  author: "Brian Fehrle"
+  project: "https://github.com/BrianFehrle/simple-python-Diablo-3-API"
+  apis:
+    - "d3"
