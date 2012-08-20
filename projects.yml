@@ -192,3 +192,10 @@
   project: "https://github.com/BrianFehrle/simple-python-Diablo-3-API"
   apis:
     - "d3"
+-
+  language: "PHP"
+  name: "Diablo-3-API-PHP"
+  author: "XjSv"
+  project: "https://github.com/XjSv/Diablo-3-API-PHP"
+  apis:
+    - "d3"
