@@ -199,3 +199,11 @@
   project: "https://github.com/XjSv/Diablo-3-API-PHP"
   apis:
     - "d3"
+-
+  language: ".Net"
+  name: "D3MediaLib"
+  author: "Promedeus"
+  project: "http://d3medialib.codeplex.com/"
+  thread: "http://us.battle.net/d3/en/forum/topic/6307731317#4"
+  apis:
+    - "d3"
