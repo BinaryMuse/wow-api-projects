@@ -264,3 +264,11 @@
   project: "https://github.com/rnystrom/D3Kit"
   apis:
     - "d3"
+-
+  language: ".NET"
+  name: "BATTLE.NET - SDK"
+  author: "Asesjix"
+  project: "http://battlenetsdk.codeplex.com/"
+  apis:
+    - "d3"
+    - "wow"
