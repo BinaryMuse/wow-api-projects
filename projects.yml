@@ -207,3 +207,11 @@
   thread: "http://us.battle.net/d3/en/forum/topic/6307731317#4"
   apis:
     - "d3"
+-
+  language: "Java"
+  name: "D3-armory-library"
+  author: "kovmarci"
+  project: "https://github.com/kovmarci86/d3-armory"
+  apis:
+    - "d3"
+-
