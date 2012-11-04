@@ -37,6 +37,7 @@
   project: "https://github.com/Hanzo55/WoWColdFusionAPI"
   apis:
     - "wow"
+    - "d3"
 -
   language: "Python"
   name: "PyWoW"
@@ -212,5 +213,54 @@
   name: "D3-armory-library"
   author: "kovmarci"
   project: "https://github.com/kovmarci86/d3-armory"
+  apis:
+    - "d3"
+-
+  language: "PHP"
+  name: "d3-api-php"
+  author: "NetJunky"
+  project: "https://github.com/jeserkin/d3-api-php"
+  apis:
+    - "d3"
+-
+  language: "C#"
+  name: "D3-API-by-ZTn"
+  author: "Tok"
+  project: "https://github.com/zetoken/D3-API-by-ZTn/"
+  apis:
+    - "d3"
+-
+  language: ".NET"
+  name: "bnapi-4-net"
+  author: "femor"
+  project: "http://code.google.com/p/bnapi-4-net/"
+  apis:
+    - "d3"
+-
+  language: "JavaScript"
+  name: "d3-js-client"
+  author: "MasterBoo"
+  project: "https://github.com/evyatron/d3-js-client"
+  apis:
+    - "d3"
+-
+  language: "Java"
+  name: "d3-armory"
+  author: "NoTiCe"
+  project: "https://github.com/kovmarci86/d3-armory/"
+  apis:
+    - "d3"
+-
+  language: "Ruby"
+  name: "Covetous"
+  author: "corroded"
+  project: "https://github.com/corroded/covetous"
+  apis:
+    - "d3"
+-
+  language: "Objective-C"
+  name: "D3Kit"
+  author: "rnystrom"
+  project: "https://github.com/rnystrom/D3Kit"
   apis:
     - "d3"
