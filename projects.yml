@@ -179,7 +179,7 @@
   apis:
     - "wow"
 -
-  language: ".Net"
+  language: ".NET"
   name: "D3API.Net"
   author: "Promedeus"
   project: "http://d3api.codeplex.com/"
@@ -201,7 +201,7 @@
   apis:
     - "d3"
 -
-  language: ".Net"
+  language: ".NET"
   name: "D3MediaLib"
   author: "Promedeus"
   project: "http://d3medialib.codeplex.com/"
