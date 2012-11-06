@@ -244,13 +244,6 @@
   apis:
     - "d3"
 -
-  language: "Java"
-  name: "d3-armory"
-  author: "NoTiCe"
-  project: "https://github.com/kovmarci86/d3-armory/"
-  apis:
-    - "d3"
--
   language: "Ruby"
   name: "Covetous"
   author: "corroded"
