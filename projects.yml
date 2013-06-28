@@ -265,3 +265,10 @@
   apis:
     - "d3"
     - "wow"
+-
+  language: "PHP"
+  name: "diablo-3-api"
+  author: "Tom Green"
+  project: "https://bitbucket.org/BeingTomGreen/diablo-3-api
+  apis:
+    - "d3"
